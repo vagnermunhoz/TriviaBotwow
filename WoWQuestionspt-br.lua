@@ -842,395 +842,408 @@ WOW_TRIVIA_ANSWERS1[199] = "Kingsblood";
 WOW_TRIVIA_QUESTIONS[200] = "Qual o nome da raid em Netherstorm? (nome completo)";
 WOW_TRIVIA_ANSWERS1[200] = "Tempest Keep";
 
-WOW_TRIVIA_QUESTIONS[201] = "What debuff once allowed Horde players to attack NPCs of their own faction?";
+WOW_TRIVIA_QUESTIONS[201] = "Qual debuff que quando recebido deixa os jogadores da Horda atacar os NPCs da sua propria facção?";
 WOW_TRIVIA_ANSWERS1[201] = "Mark of Shame";
 
-WOW_TRIVIA_QUESTIONS[202] = "Who is the final boss you have to kill for the tier 0.5 series of quests?";
+WOW_TRIVIA_QUESTIONS[202] = "Qual o ultimo boss que voce tem que matar para a seria de quests do tier 0.5?";
 WOW_TRIVIA_ANSWERS1[202] = "Lord Valthalak";
 WOW_TRIVIA_ANSWERS2[202] = "Valthalak";
 
-WOW_TRIVIA_QUESTIONS[203] = "Greater Shadow Protection potions require one dreamfoil, one __________, and one crystal vial.";
+WOW_TRIVIA_QUESTIONS[203] = "Greater Shadow Protection potions quererem 1x dreamfoil, 1x __________, e 1x crystal vial.";
 WOW_TRIVIA_ANSWERS1[203] = "shadow oil";
 
-WOW_TRIVIA_QUESTIONS[204] = "How long is the auto-release timer when you die outside of an instance?";
-WOW_TRIVIA_ANSWERS1[204] = "6 minutes";
+WOW_TRIVIA_QUESTIONS[204] = "Quanto tempo dura o auto-release quando voce morre fora de uma instancia?";
+WOW_TRIVIA_ANSWERS1[204] = "6 minutos";
 WOW_TRIVIA_ANSWERS2[204] = "6 min";
 WOW_TRIVIA_ANSWERS3[204] = "6 mins";
 
-WOW_TRIVIA_QUESTIONS[205] = "Name one of the two bosses you must kill during the Thaddius fight before you face Thaddius himself.";
+WOW_TRIVIA_QUESTIONS[205] = "Diga o nome de pelo menos um boss que voce deve matar antes de emfrentar o proprio Thaddius.";
 WOW_TRIVIA_ANSWERS1[205] = "Stalagg";
 WOW_TRIVIA_ANSWERS2[205] = "Feugen";
 
-WOW_TRIVIA_QUESTIONS[206] = "The 'Fungal Bloom' debuff in the Loatheb fight gives how much bonus to crit chance?";
+WOW_TRIVIA_QUESTIONS[206] = "O debuff 'Fungal Bloom' na luta de Loatheb lhe da quanto de chance de critico?";
 WOW_TRIVIA_ANSWERS1[206] = "60%";
 WOW_TRIVIA_ANSWERS2[206] = "60";
 
-WOW_TRIVIA_QUESTIONS[207] = "The Pools of Vision are found in what main city? (full name)";
+WOW_TRIVIA_QUESTIONS[207] = "The Pools of Vision sao encontrados em qual cidade principal? (nome completo)";
 WOW_TRIVIA_ANSWERS1[207] = "Thunder Bluff";
+WOW_TRIVIA_ANSWERS2[207] = "TB";
 
-WOW_TRIVIA_QUESTIONS[208] = "What is the name of the lowest level zone in Outland?";
+WOW_TRIVIA_QUESTIONS[208] = "Qual o nome da zona mais low-level de Outland?";
 WOW_TRIVIA_ANSWERS1[208] = "Hellfire Peninsula";
+WOW_TRIVIA_ANSWERS2[208] = "Hellfire";
 
-WOW_TRIVIA_QUESTIONS[209] = "Which zone do Druids gain a teleport to at level 10?";
+WOW_TRIVIA_QUESTIONS[209] = "Para qual zona os Druids podem se teleportar no leval 10?";
 WOW_TRIVIA_ANSWERS1[209] = "Moonglade";
 
-WOW_TRIVIA_QUESTIONS[210] = "Flasks can be crafted in two instances and one zone in the game. Name one?";
+WOW_TRIVIA_QUESTIONS[210] = "Flasks podem ser criados em 2 instancias e 1 zona do jogo. Diga uma?";
 WOW_TRIVIA_ANSWERS1[210] = "Blackwing Lair";
 WOW_TRIVIA_ANSWERS2[210] = "Scholomance";
-WOW_TRIVIA_ANSWERS3[210] = "Shattrath";
-WOW_TRIVIA_ANSWERS4[210] = "Shattrath City";
+WOW_TRIVIA_ANSWERS3[210] = "Scholo";
+WOW_TRIVIA_ANSWERS4[210] = "Shattrath";
+WOW_TRIVIA_ANSWERS5[210] = "Shattrath City";
+WOW_TRIVIA_ANSWERS6[210] = "BWL";
 
-WOW_TRIVIA_QUESTIONS[211] = "What creature despawns at 20%, saying it is 'not his time yet'?";
+WOW_TRIVIA_QUESTIONS[211] = "Que criatura Despawna em 20% de hp, dizendo que 'not his time yet(ainda nao e a hora dele)'?";
 WOW_TRIVIA_ANSWERS1[211] = "Anachronos";
 
-WOW_TRIVIA_QUESTIONS[212] = "Which zone contains the original World Tree? (full name)";
+WOW_TRIVIA_QUESTIONS[212] = "Que zona contem a Arvore do mundo (World Tree) original? (nome completo)";
 WOW_TRIVIA_ANSWERS1[212] = "Mount Hyjal"
 
-WOW_TRIVIA_QUESTIONS[213] = "What is the name of the elite Dragon who patrols the Blasted Lands?";
+WOW_TRIVIA_QUESTIONS[213] = "Qual o nome do dragao elite que patrulha Blasted Lands?";
 WOW_TRIVIA_ANSWERS1[213] = "Teremus the Devourer";
 WOW_TRIVIA_ANSWERS2[213] = "Teremus";
 
-WOW_TRIVIA_QUESTIONS[214] = "How many mini-bosses are there on the top-level of the Sunken Temple?";
+WOW_TRIVIA_QUESTIONS[214] = "Quantos mini-bosses existem na parte superior de Sunken Temple?";
 WOW_TRIVIA_ANSWERS1[214] = "6";
-WOW_TRIVIA_ANSWERS2[214] = "Six";
+WOW_TRIVIA_ANSWERS2[214] = "Seis";
 
-WOW_TRIVIA_QUESTIONS[215] = "What does Gluth eat to regain health?";
+WOW_TRIVIA_QUESTIONS[215] = "O que 'Gluth' come para regenerar seu HP?";
 WOW_TRIVIA_ANSWERS1[215] = "Zombie Chow";
-WOW_TRIVIA_ANSWERS2[215] = "zombies";
-WOW_TRIVIA_ANSWERS3[215] = "zombie";
+WOW_TRIVIA_ANSWERS2[215] = "zumbi";
+WOW_TRIVIA_ANSWERS3[215] = "zumbis";
 
-WOW_TRIVIA_QUESTIONS[216] = "Maexxna enrages at what health percentage?";
+WOW_TRIVIA_QUESTIONS[216] = "Maexxna se enfurece com quantos por cento de HP?";
 WOW_TRIVIA_ANSWERS1[216] = "30";
 WOW_TRIVIA_ANSWERS2[216] = "30%";
-WOW_TRIVIA_ANSWERS3[216] = "Thirty";
+WOW_TRIVIA_ANSWERS3[216] = "trinta";
 
-WOW_TRIVIA_QUESTIONS[217] = "Who is the most damaging boss in Naxxramas?";
+WOW_TRIVIA_QUESTIONS[217] = "Qual boss é o que da mais dano em Naxxramas?";
 WOW_TRIVIA_ANSWERS1[217] = "Instructor Razuvious";
 WOW_TRIVIA_ANSWERS2[217] = "Razuvious";
 
-WOW_TRIVIA_QUESTIONS[218] = "Which boss drops the tier 2 headpieces?";
+WOW_TRIVIA_QUESTIONS[218] = "Que boss dropa o elmo T2?";
 WOW_TRIVIA_ANSWERS1[218] = "Onyxia";
 WOW_TRIVIA_ANSWERS2[218] = "Ony";
 
-WOW_TRIVIA_QUESTIONS[219] = "How many parts does the tier 3 armor set have?";
+WOW_TRIVIA_QUESTIONS[219] = "Quantas partes o set tier 3 tem?";
 WOW_TRIVIA_ANSWERS1[219] = "9";
-WOW_TRIVIA_ANSWERS2[219] = "Nine";
+WOW_TRIVIA_ANSWERS2[219] = "nove";
 
-WOW_TRIVIA_QUESTIONS[220] = "The tunnel to Stonetalon Mountains from Ashenvale will deposit you near the road. (True/False)?";
-WOW_TRIVIA_ANSWERS1[220] = "False";
+WOW_TRIVIA_QUESTIONS[220] = "O tunel para Stonetalon Mountains de Ashenvale ira leva-lo ate proximo da estrada . (verdadeiro/Falso)?";
+WOW_TRIVIA_ANSWERS1[220] = "Falso";
 
-WOW_TRIVIA_QUESTIONS[221] = "What is the second last boss in Molten Core?";
+WOW_TRIVIA_QUESTIONS[221] = "Qual o penultimo boss de Molten Core?";
 WOW_TRIVIA_ANSWERS1[221] = "Majordomo Executus";
 WOW_TRIVIA_ANSWERS2[221] = "Majordomo";
 
-WOW_TRIVIA_QUESTIONS[222] = "In the AQ War Effort, what item was required in the greatest number?";
+WOW_TRIVIA_QUESTIONS[222] = "Durante o 'AQ War Effort', qual item tem o maior numero de requerimentos?";
 WOW_TRIVIA_ANSWERS1[222] = "Linen bandages";
 
-WOW_TRIVIA_QUESTIONS[223] = "What does Ragnaros summon when he submerges after 3 minutes of combat?";
+WOW_TRIVIA_QUESTIONS[223] = "O que Ragnaros invoca quando ele submerge apos 3 minutos de combate?";
 WOW_TRIVIA_ANSWERS1[223] = "Sons of Flame";
 
-WOW_TRIVIA_QUESTIONS[224] = "What Rogue leggings does Ragnaros drop?";
+WOW_TRIVIA_QUESTIONS[224] = "Qual o nome da calça de rogue que dropa do Ragnaros?";
 WOW_TRIVIA_ANSWERS1[224] = "Bloodfang Pants";
 WOW_TRIVIA_ANSWERS2[224] = "Bloodfang";
 
-WOW_TRIVIA_QUESTIONS[225] = "Who is the 'Dad' in the Bug Family in AQ40?";
+WOW_TRIVIA_QUESTIONS[225] = "Quem é o 'Pai' da Bug Family em AQ40?";
 WOW_TRIVIA_ANSWERS1[225] = "Lord Kri";
 WOW_TRIVIA_ANSWERS2[225] = "Kri";
 
-WOW_TRIVIA_QUESTIONS[226] = "When the game was released, the mobs of which zone had no loot?";
+WOW_TRIVIA_QUESTIONS[226] = "Quando o jogo foi lançado, os mobs de qual zoa nao tinham loot?";
 WOW_TRIVIA_ANSWERS1[226] = "Silithus";
 
-WOW_TRIVIA_QUESTIONS[227] = "Which Blackwing Lair boss drops the tier 2 Bracers?";
+WOW_TRIVIA_QUESTIONS[227] = "Que boss de Blackwing Lair dropa o bracelete T2?";
 WOW_TRIVIA_ANSWERS1[227] = "Razorgore the Untamed";
 WOW_TRIVIA_ANSWERS2[227] = "Razorgore";
 
-WOW_TRIVIA_QUESTIONS[228] = "What is the name of the bar in Blackrock Depths?";
+WOW_TRIVIA_QUESTIONS[228] = "Qual o nome do bar de Blackrock Depths?";
 WOW_TRIVIA_ANSWERS1[228] = "The Grim Guzzler";
 WOW_TRIVIA_ANSWERS2[228] = "Grim Guzzler";
 
-WOW_TRIVIA_QUESTIONS[229] = "How many bosses in AQ20 must be kited to kill them?";
+WOW_TRIVIA_QUESTIONS[229] = "Quantos bosses em AQ20 devem ser kitados para mata-los?";
 WOW_TRIVIA_ANSWERS1[229] = "2";
-WOW_TRIVIA_ANSWERS2[229] = "two";
+WOW_TRIVIA_ANSWERS2[229] = "dois";
 
-WOW_TRIVIA_QUESTIONS[230] = "Who has the lowest health of all the bosses in Naxxramas?";
+WOW_TRIVIA_QUESTIONS[230] = "Qual boss tem o menor HP de Naxxramas?";
 WOW_TRIVIA_ANSWERS1[230] = "Gothik the Harvester";
 WOW_TRIVIA_ANSWERS2[230] = "Gothik";
 
-WOW_TRIVIA_QUESTIONS[231] = "How many optional encounters does AQ40 have?";
+WOW_TRIVIA_QUESTIONS[231] = "Quantos encontros opcionais tem AQ40 ?";
 WOW_TRIVIA_ANSWERS1[231] = "3";
-WOW_TRIVIA_ANSWERS2[231] = "Three";
+WOW_TRIVIA_ANSWERS2[231] = "Tres";
 
-WOW_TRIVIA_QUESTIONS[232] = "The Gurubashi Arena event takes place at ____-hourly intervals?";
+WOW_TRIVIA_QUESTIONS[232] = "O 'Gurubashi Arena event' aparece a cada ____-horas";
 WOW_TRIVIA_ANSWERS1[232] = "3";
-WOW_TRIVIA_ANSWERS2[232] = "three";
+WOW_TRIVIA_ANSWERS2[232] = "tres";
 
-WOW_TRIVIA_QUESTIONS[233] = "In what patch were the 4 world Dragons introduced?";
+WOW_TRIVIA_QUESTIONS[233] = "Em qual patch os 4 dragoes mundiais foram introduzidos?";
 WOW_TRIVIA_ANSWERS1[233] = "1.8";
 
-WOW_TRIVIA_QUESTIONS[234] = "What is the lowest level instance in the game?";
+WOW_TRIVIA_QUESTIONS[234] = "Qual a instancia mais baixa do jogo(low-level)?";
 WOW_TRIVIA_ANSWERS1[234] = "Ragefire Chasm";
 WOW_TRIVIA_ANSWERS2[234] = "RFC";
 
-WOW_TRIVIA_QUESTIONS[235] = "What is the name of the draenei capital city?";
+WOW_TRIVIA_QUESTIONS[235] = "Qual o nome da capital draenei?";
 WOW_TRIVIA_ANSWERS1[235] = "The Exodar";
 WOW_TRIVIA_ANSWERS2[235] = "Exodar";
 
-WOW_TRIVIA_QUESTIONS[236] = "Which Alliance race has +15 engineering as racial passive?";
+WOW_TRIVIA_QUESTIONS[236] = "Qual raça da Aliança tem bonus de +15 engineering como racial?";
 WOW_TRIVIA_ANSWERS1[236] = "Gnome";
 WOW_TRIVIA_ANSWERS2[236] = "Gnomes";
+WOW_TRIVIA_ANSWERS3[236] = "Gnomo";
+WOW_TRIVIA_ANSWERS2[236] = "Gnomos";
 
-WOW_TRIVIA_QUESTIONS[237] = "Acronyms: What does ATP stand for?";
+WOW_TRIVIA_QUESTIONS[237] = "Acronimo: o que ATP que dizer?";
 WOW_TRIVIA_ANSWERS1[237] = "Attack Power";
 
-WOW_TRIVIA_QUESTIONS[238] = "How many fears does the Warlock class have?";
+WOW_TRIVIA_QUESTIONS[238] = "Quantos fear um warlock tem?";
 WOW_TRIVIA_ANSWERS1[238] = "2";
-WOW_TRIVIA_ANSWERS2[238] = "two";
+WOW_TRIVIA_ANSWERS2[238] = "dois";
 
-WOW_TRIVIA_QUESTIONS[239] = "Druids can do Physical, Nature and ______ damage.";
+WOW_TRIVIA_QUESTIONS[239] = "Druids podem dar dano fisico, Nature e ______ .";
 WOW_TRIVIA_ANSWERS1[239] = "Arcane damage";
 WOW_TRIVIA_ANSWERS2[239] = "arcane";
 
-WOW_TRIVIA_QUESTIONS[240] = "What boss is a anagram for healbot?";
+WOW_TRIVIA_QUESTIONS[240] = "Qual boss é um anagrama para healbot?";
 WOW_TRIVIA_ANSWERS1[240] = "Loatheb";
 
-WOW_TRIVIA_QUESTIONS[241] = "How many PvP ranks existed in the old honor system?";
+WOW_TRIVIA_QUESTIONS[241] = "Quantos ranks existem no sistema de honra antigo?";
 WOW_TRIVIA_ANSWERS1[241] = "14";
-WOW_TRIVIA_ANSWERS2[241] = "fourteen";
+WOW_TRIVIA_ANSWERS2[241] = "quatorze";
 
-WOW_TRIVIA_QUESTIONS[242] = "At what PvP rank could you buy PvP mounts? (number)";
+WOW_TRIVIA_QUESTIONS[242] = "Em qual Rank PvP voce pode comprar as montarias de PvP? (numero)";
 WOW_TRIVIA_ANSWERS1[242] = "11";
-WOW_TRIVIA_ANSWERS2[242] = "eleven";
+WOW_TRIVIA_ANSWERS2[242] = "onze";
 
-WOW_TRIVIA_QUESTIONS[243] = "Arcane Resilience will increase your armor by what % of your intellect?";
+WOW_TRIVIA_QUESTIONS[243] = "Arcane Resilience ira aumentar sua armadura em quantos por cento do seu intelect?";
 WOW_TRIVIA_ANSWERS1[243] = "50%";
-WOW_TRIVIA_ANSWERS2[243] = "Fifty";
+WOW_TRIVIA_ANSWERS2[243] = "cinquenta";
 WOW_TRIVIA_ANSWERS3[243] = "50";
 
-WOW_TRIVIA_QUESTIONS[244] = "What instance is sometimes called 'UD'?";
+WOW_TRIVIA_QUESTIONS[244] = "Que instancia é chamada algumas vezes de 'UD'?";
 WOW_TRIVIA_ANSWERS1[244] = "Stratholme";
 WOW_TRIVIA_ANSWERS2[244] = "Strat";
 
-WOW_TRIVIA_QUESTIONS[245] = "Name a faction that is part of the Steamwheedle Cartel.";
+WOW_TRIVIA_QUESTIONS[245] = "Diga o nome de uma facção que faz parte de Steamwheedle Cartel.";
 WOW_TRIVIA_ANSWERS1[245] = "Booty Bay";
 WOW_TRIVIA_ANSWERS2[245] = "Everlook";
 WOW_TRIVIA_ANSWERS3[245] = "Ratchet";
 WOW_TRIVIA_ANSWERS4[245] = "Gadgetztan";
 
-WOW_TRIVIA_QUESTIONS[246] = "What race has the racial skill 'Diplomacy'?";
+WOW_TRIVIA_QUESTIONS[246] = "Que raça tem como racial 'Diplomacy'?";
 WOW_TRIVIA_ANSWERS1[246] = "Human";
 WOW_TRIVIA_ANSWERS2[246] = "Humans";
+WOW_TRIVIA_ANSWERS3[246] = "Humano";
 
-WOW_TRIVIA_QUESTIONS[247] = "Blizzard will do up to 1472 damage over ___ seconds?";
+WOW_TRIVIA_QUESTIONS[247] = "Blizzard ira dar 1472 dano durante ___ segundos?";
 WOW_TRIVIA_ANSWERS1[247] = "8";
-WOW_TRIVIA_ANSWERS2[247] = "eight";
+WOW_TRIVIA_ANSWERS2[247] = "oito";
 
-WOW_TRIVIA_QUESTIONS[248] = "Evocation has a ___ min cooldown?";
+WOW_TRIVIA_QUESTIONS[248] = "Evocation tem ___ min de cooldown";
 WOW_TRIVIA_ANSWERS1[248] = "8";
 WOW_TRIVIA_ANSWERS2[248] = "eight";
 
-WOW_TRIVIA_QUESTIONS[249] = "Mages can Polymorph you into a goat. (True/False)?";
-WOW_TRIVIA_ANSWERS1[249] = "False";
+WOW_TRIVIA_QUESTIONS[249] = "Magos podem usar Poly para transformar o alvo em um bode. (verdadeiro/falso)?";
+WOW_TRIVIA_ANSWERS1[249] = "falso";
 
-WOW_TRIVIA_QUESTIONS[250] = "Which class can cast Fear?";
+WOW_TRIVIA_QUESTIONS[250] = "Que classe pode castar a skill 'fear'?";
 WOW_TRIVIA_ANSWERS1[250] = "Warlock";
 
-WOW_TRIVIA_QUESTIONS[251] = "The  tier 3 Mage set is called?";
+WOW_TRIVIA_QUESTIONS[251] = "O tier 3 de Mage chama-se?";
 WOW_TRIVIA_ANSWERS1[251] = "Frostfire";
 
-WOW_TRIVIA_QUESTIONS[252] = "Which is the most hated instance?";
+WOW_TRIVIA_QUESTIONS[252] = "Qual a instancia mais odiada?";
 WOW_TRIVIA_ANSWERS1[252] = "Gnomeregan";
+WOW_TRIVIA_ANSWERS2[252] = "Gnome";
 
-WOW_TRIVIA_QUESTIONS[253] = "Acronyms: What does DKP stand for?";
+WOW_TRIVIA_QUESTIONS[253] = "Acronimo: o que DKP que dizer?";
 WOW_TRIVIA_ANSWERS1[253] = "Dragon Kill Points";
 
-WOW_TRIVIA_QUESTIONS[254] = "Who is being held captive by the Baron in Stratholme?";
+WOW_TRIVIA_QUESTIONS[254] = "Quem é a refem do Baron em Stratholme?";
 WOW_TRIVIA_ANSWERS1[254] = "Ysida Harmon";
 WOW_TRIVIA_ANSWERS2[254] = "Ysida";
 
-WOW_TRIVIA_QUESTIONS[255] = "What epic sword set was 'Forged in the seething flames of hatred'?";
+WOW_TRIVIA_QUESTIONS[255] = "Qual set de espadas epicas era 'Forged in the seething flames of hatred'?";
 WOW_TRIVIA_ANSWERS1[255] = "The Twin blades of Hakkari";
 WOW_TRIVIA_ANSWERS2[255] = "Twin blades of Hakkari";
 
-WOW_TRIVIA_QUESTIONS[256] = "What is the name of the fruit vendor patrolling in Ironforge (The Mystic Ward)?";
+WOW_TRIVIA_QUESTIONS[256] = "Qual o nome do vendedor de frutas patrulhando em Ironforge (The Mystic Ward)?";
 WOW_TRIVIA_ANSWERS1[256] = "Bimble Longberry";
 WOW_TRIVIA_ANSWERS2[256] = "Longberry";
 WOW_TRIVIA_ANSWERS3[256] = "Bimble";
 
-WOW_TRIVIA_QUESTIONS[257] = "What is the name of the food you get from the Mage spell 'Conjure food (Rank 1)'?";
+WOW_TRIVIA_QUESTIONS[257] = "Qual o nome da comida que voce pega da magica de Mago 'Conjure food (Rank 1)'?";
 WOW_TRIVIA_ANSWERS1[257] = "Muffin";
 WOW_TRIVIA_ANSWERS2[257] = "Muffins";
 WOW_TRIVIA_ANSWERS3[257] = "Conjured Muffins";
 WOW_TRIVIA_ANSWERS4[257] = "Conjured Muffin";
 
-WOW_TRIVIA_QUESTIONS[258] = "Humanoids can drop linen cloth from level _.";
+WOW_TRIVIA_QUESTIONS[258] = "Humanoids podem dropar 'linen cloth' a partir do level _.";
 WOW_TRIVIA_ANSWERS1[258] = "8";
-WOW_TRIVIA_ANSWERS2[258] = "eight";
+WOW_TRIVIA_ANSWERS2[258] = "oito";
 
-WOW_TRIVIA_QUESTIONS[259] = "One area in Silverpine Forest is called '______ Isle'.";
+WOW_TRIVIA_QUESTIONS[259] = "Uma area em Silverpine Forest é chamada '______ Isle'.";
 WOW_TRIVIA_ANSWERS1[259] = "Fenris";
 
-WOW_TRIVIA_QUESTIONS[260] = "Where does most of the Blue Dragonflight reside?";
+WOW_TRIVIA_QUESTIONS[260] = "Onde residem a maior quantidade de dragoes da 'Blue Dragonflight'?";
 WOW_TRIVIA_ANSWERS1[260] = "Northrend";
 
-WOW_TRIVIA_QUESTIONS[261] = "Where does most of the Black Dragonflight reside?";
+WOW_TRIVIA_QUESTIONS[261] = "Onde residem a maior quantidade de dragoes da 'Black Dragonflight'?";
 WOW_TRIVIA_ANSWERS1[261] = "Blackrock Mountain";
 WOW_TRIVIA_ANSWERS2[261] = "Blackrock Spire";
 WOW_TRIVIA_ANSWERS3[261] = "Burning Steppes";
 
-WOW_TRIVIA_QUESTIONS[262] = "Where does most of the Bronze Dragonflight reside?";
+WOW_TRIVIA_QUESTIONS[262] = "Onde residem a maior quantidade de dragoes da 'Bronze Dragonflight'?";
 WOW_TRIVIA_ANSWERS1[262] = "Caverns of Time";
 WOW_TRIVIA_ANSWERS2[262] = "Tanaris";
 
-WOW_TRIVIA_QUESTIONS[263] = "Where does most of the Red Dragonflight reside?";
+WOW_TRIVIA_QUESTIONS[263] = "Onde residem a maior quantidade de dragoes da 'Red Dragonflight'?";
 WOW_TRIVIA_ANSWERS1[263] = "Grim Batol";
 WOW_TRIVIA_ANSWERS2[263] = "Wetlands";
 
-WOW_TRIVIA_QUESTIONS[264] = "Where does most of the Green Dragonflight reside?";
+WOW_TRIVIA_QUESTIONS[264] = "Onde residem a maior quantidade de dragoes da 'Green Dragonflight'?";
 WOW_TRIVIA_ANSWERS1[264] = "The Emerald Dream";
 WOW_TRIVIA_ANSWERS2[264] = "Emerald Dream";
 WOW_TRIVIA_ANSWERS3[264] = "Swamp of Sorrows";
 
-WOW_TRIVIA_QUESTIONS[265] = "Who is the leader of the Bronze Dragonflight?";
+WOW_TRIVIA_QUESTIONS[265] = "Quem é o lider da 'Bronze Dragonflight'?";
 WOW_TRIVIA_ANSWERS1[265] = "Nozdormu";
 WOW_TRIVIA_ANSWERS2[265] = "Nozdormu the Timeless one";
 
-WOW_TRIVIA_QUESTIONS[266] = "Who is the leader of the Green Dragonflight?";
+WOW_TRIVIA_QUESTIONS[266] = "Quem é o lider da 'Green Dragonflight'?";
 WOW_TRIVIA_ANSWERS1[266] = "Ysera";
 WOW_TRIVIA_ANSWERS2[266] = "Ysera the Dreamer";
 
-WOW_TRIVIA_QUESTIONS[267] = "Who is the leader of the Red Dragonflight?";
+WOW_TRIVIA_QUESTIONS[267] = "Quem é o lider da 'Red Dragonflight'?";
 WOW_TRIVIA_ANSWERS1[267] = "Alexstraza";
 WOW_TRIVIA_ANSWERS2[267] = "Alexstrasza the Life-Binder"
 WOW_TRIVIA_ANSWERS3[267] = "Alexstrasza the Life Binder";
 
-WOW_TRIVIA_QUESTIONS[268] = "Who is the leader of the Blue Dragonflight?";
+WOW_TRIVIA_QUESTIONS[268] = "Quem é o lider da'Blue Dragonflight'?";
 WOW_TRIVIA_ANSWERS1[268] = "Malygos";
 WOW_TRIVIA_ANSWERS2[268] = "Malygos the Spell-Weaver";
 WOW_TRIVIA_ANSWERS3[268] = "Malygos the Spell Weaver";
 
-WOW_TRIVIA_QUESTIONS[269] = "Who is the leader of the Black Dragonflight?";
+WOW_TRIVIA_QUESTIONS[269] = "Quem é o lider da 'Black Dragonflight'?";
 WOW_TRIVIA_ANSWERS1[269] = "Neltharion";
 WOW_TRIVIA_ANSWERS2[269] = "Deathwing";
 WOW_TRIVIA_ANSWERS3[269] = "Neltharion the Earth-Warder";
 WOW_TRIVIA_ANSWERS4[269] = "Deathwing the Destroyer";
 
-WOW_TRIVIA_QUESTIONS[270] = "The Black Dragonflight was originally which color, before becoming corrupted?";
+WOW_TRIVIA_QUESTIONS[270] = "A 'Black Dragonflight' era originalmente de que cor, antes de ser corrompida?";
 WOW_TRIVIA_ANSWERS1[270] = "Brown";
+WOW_TRIVIA_ANSWERS2[270] = "marrom";
 
-WOW_TRIVIA_QUESTIONS[271] = "To where does the portals which the corrupted Emerald Dragons are guarding, lead?";
+WOW_TRIVIA_QUESTIONS[271] = "Para onde  vai o portal que os 'Emerald Dragons' estao guardando?";
 WOW_TRIVIA_ANSWERS1[271] = "The Emerald Dream";
 WOW_TRIVIA_ANSWERS2[271] = "Emerald Dream";
 
-WOW_TRIVIA_QUESTIONS[272] = "Name one of the two places where Eranikus can be found.";
+WOW_TRIVIA_QUESTIONS[272] = "Diga o nome de um dos dois lugares em que 'Eranikus' pode ser encontrado.";
 WOW_TRIVIA_ANSWERS1[272] = "Sunken Temple or Moonglade";
 WOW_TRIVIA_ANSWERS2[272] = "Sunken Temple";
 WOW_TRIVIA_ANSWERS3[272] = "Moonglade";
 WOW_TRIVIA_ANSWERS4[272] = "Moonglade or Sunken Temple";
 
-WOW_TRIVIA_QUESTIONS[273] = "With the Genesis (t2.5) set bonus, what is the cooldown on Rebirth for Druids?";
-WOW_TRIVIA_ANSWERS1[273] = "20 minutes";
-WOW_TRIVIA_ANSWERS2[273] = "Twenty minutes";
-WOW_TRIVIA_ANSWERS3[273] = "Twenty mins";
+WOW_TRIVIA_QUESTIONS[273] = "Com o set bonus 'the Genesis' (t2.5), Qual o  cooldown do Rebirth dos Druids?";
+WOW_TRIVIA_ANSWERS1[273] = "20 minutos";
+WOW_TRIVIA_ANSWERS2[273] = "vinte minutos";
+WOW_TRIVIA_ANSWERS3[273] = "vinte min";
+WOW_TRIVIA_ANSWERS3[273] = "20 min";
 
-WOW_TRIVIA_QUESTIONS[274] = "The only non-combat pet with an effect on gameplay is the _____.";
+WOW_TRIVIA_QUESTIONS[274] = "O unico pet que não é de batalha(cosmetico) que tem um efeito é o _____.";
 WOW_TRIVIA_ANSWERS1[274] = "Disgusting Oozeling";
 
-WOW_TRIVIA_QUESTIONS[275] = "What is the name of the mount you can obtain through the repeatable quests in Winterspring?";
+WOW_TRIVIA_QUESTIONS[275] = "Qual o nome da montaria que obtem-se pelas quest repetitivas de Winterspring?";
 WOW_TRIVIA_ANSWERS1[275] = "Reins of the Winterspring Frostsaber";
 WOW_TRIVIA_ANSWERS2[275] = "Winterspring Frostsaber";
 
-WOW_TRIVIA_QUESTIONS[276] = "What is the name of the dranei mount?";
+WOW_TRIVIA_QUESTIONS[276] = "Qual o nome da montaria de draenei?";
 WOW_TRIVIA_ANSWERS1[276] = "Elekk";
 
-WOW_TRIVIA_QUESTIONS[277] = "Who is the mighty Warrior you must defeat in the Upper Blackrock Spire in order to obtain the tier 0 Warrior shoulders?";
+WOW_TRIVIA_QUESTIONS[277] = "Quem é o grande guerreiro que deve ser derrotado para conseguir a ombreira de warrior(T0) em Upper Blackrock Spire ?";
 WOW_TRIVIA_ANSWERS1[277] = "Rend";
 WOW_TRIVIA_ANSWERS2[277] = "Rend Blackhand";
 WOW_TRIVIA_ANSWERS3[277] = "Warchief Rend Blackhand";
 
-WOW_TRIVIA_QUESTIONS[278] = "In the Upper Blackrock Spires is a giant hound named 'The ____'.";
+WOW_TRIVIA_QUESTIONS[278] = "Em Upper Blackrock Spires tem um cão gigante chamado de 'The ____'.";
 WOW_TRIVIA_ANSWERS1[278] = "Beast";
 
-WOW_TRIVIA_QUESTIONS[279] = "What dragon drops the tier 2 headpieces? (the full name)";
+WOW_TRIVIA_QUESTIONS[279] = "Qual dragão dropa o elmo T2? (nome completo)";
 WOW_TRIVIA_ANSWERS1[279] = "Onyxia";
 
-WOW_TRIVIA_QUESTIONS[280] = "How long does it take for a Rogues stealth to be ready after unstealthing (Without Talents)?";
-WOW_TRIVIA_ANSWERS1[280] = "10 seconds";
-WOW_TRIVIA_ANSWERS2[280] = "10 secs";
-WOW_TRIVIA_ANSWERS3[280] = "10 sec";
+WOW_TRIVIA_QUESTIONS[280] = "Quanto tempo demora para um rogue voltar ao stealth apos sair do mesmo (sem Talentos)?";
+WOW_TRIVIA_ANSWERS1[280] = "10 segundos";
+WOW_TRIVIA_ANSWERS2[280] = "10 seg";
+WOW_TRIVIA_ANSWERS3[280] = "10 seg";
 
-WOW_TRIVIA_QUESTIONS[281] = "The cooldown for Goblin Jumper Cables is ____ minutes?";
+WOW_TRIVIA_QUESTIONS[281] = "O cooldown para Goblin Jumper Cables é de ____ minutos?";
 WOW_TRIVIA_ANSWERS1[281] = "30";
-WOW_TRIVIA_ANSWERS2[281] = "30 mins";
-WOW_TRIVIA_ANSWERS3[281] = "30 minutes";
+WOW_TRIVIA_ANSWERS2[281] = "30 min";
+WOW_TRIVIA_ANSWERS3[281] = "30 minutos";
 WOW_TRIVIA_ANSWERS4[281] = "30 min";
 
-WOW_TRIVIA_QUESTIONS[282] = "Who does the trinket Warmth of Forgiveness drop off?";
+WOW_TRIVIA_QUESTIONS[282] = "De quem dropa o trinket 'Warmth of Forgiveness'?";
 WOW_TRIVIA_ANSWERS1[282] = "The Four Horsemen";
 WOW_TRIVIA_ANSWERS2[282] = "Four Horsemen";
 
-WOW_TRIVIA_QUESTIONS[283] = "What is the Hunter's tier 3 called?";
+WOW_TRIVIA_QUESTIONS[283] = "Como é chamado o Tier 3 de hunter?";
 WOW_TRIVIA_ANSWERS1[283] = "Cryptstalker";
 
-WOW_TRIVIA_QUESTIONS[284] = "What plate item collection from Naxxramas increases frost resistance?";
+WOW_TRIVIA_QUESTIONS[284] = "Que coleção de plate de Naxxramas aumenta a resistencia frost?";
 WOW_TRIVIA_ANSWERS1[284] = "Icebane";
 
-WOW_TRIVIA_QUESTIONS[285] = "Prince ______ is the Scourge Ambassador to the Vrykuls.";
+WOW_TRIVIA_QUESTIONS[285] = "Prince ______ é o 'Scourge Ambassador' para os Vrykuls.";
 WOW_TRIVIA_ANSWERS1[285] = "Keleseth";
 
-WOW_TRIVIA_QUESTIONS[286] = "What is the full name of the last boss in The Deadmines?";
-WOW_TRIVIA_ANSWERS1[286] = "Edwin Van Cleef";
+WOW_TRIVIA_QUESTIONS[286] = "Qual o nome completo do ultimo boss de Deadmines?";
+WOW_TRIVIA_ANSWERS1[286] = "Edwin VanCleef";
+WOW_TRIVIA_ANSWERS2[286] = "Edwin Van Cleef";
 
-WOW_TRIVIA_QUESTIONS[287] = "What rare spawn in Stratholme drops Piccolo of the Flaming Fire?";
+WOW_TRIVIA_QUESTIONS[287] = "Que raro de Stratholme dropa 'Piccolo of the Flaming Fire'?";
 WOW_TRIVIA_ANSWERS1[287] = "Hearthsinger Forresten";
 WOW_TRIVIA_ANSWERS2[287] = "Forresten";
 
-WOW_TRIVIA_QUESTIONS[288] = "What is the name of the zone that you'll teleport into after entering the dark portal at Blasted Lands?";
+WOW_TRIVIA_QUESTIONS[288] = "Qual o nome da zona que voce é teleportado apos passar pelo Dark Portal em Blasted Lands?";
 WOW_TRIVIA_ANSWERS1[288] = "Hellfire Peninsula";
 
-WOW_TRIVIA_QUESTIONS[289] = "Blizzard Entertainment is owned by which company?";
+WOW_TRIVIA_QUESTIONS[289] = "Qual compania é dona da Blizzard Entertainment?";
 WOW_TRIVIA_ANSWERS1[289] = "Vivendi Universal Games";
 WOW_TRIVIA_ANSWERS2[289] = "vivendi";
 
-WOW_TRIVIA_QUESTIONS[290] = "What is the homeworld of the eredar called?";
+WOW_TRIVIA_QUESTIONS[290] = "Como é chamado o planeta natal dos Draeneis?";
 WOW_TRIVIA_ANSWERS1[290] = "Argus";
 
-WOW_TRIVIA_QUESTIONS[291] = "What is the undead's starting place called?";
+WOW_TRIVIA_QUESTIONS[291] = "Como é chamado o lugar inicial dos undeads?";
 WOW_TRIVIA_ANSWERS1[291] = "Deathknell";
 
-WOW_TRIVIA_QUESTIONS[292] = "In which talent tree can the spell 'Dark Pact' be found?";
+WOW_TRIVIA_QUESTIONS[292] = "Em qual arvore de talento o talento 'Dark Pact' se encontra?";
 WOW_TRIVIA_ANSWERS1[292] = "Affliction";
 
-WOW_TRIVIA_QUESTIONS[293] = "In which talent tree can the spell 'Soul Link' be found?";
+WOW_TRIVIA_QUESTIONS[293] = "Em qual arvore de talento o talento 'Soul Link' se encontra?";
 WOW_TRIVIA_ANSWERS1[293] = "Demonology";
 
-WOW_TRIVIA_QUESTIONS[294] = "What lvl of First Aid is required to learn Artisan First Aid?";
+WOW_TRIVIA_QUESTIONS[294] = "Que level de Fisrt aid é necessario para aprender 'Artisan First Aid'?";
 WOW_TRIVIA_ANSWERS1[294] = "225";
 
-WOW_TRIVIA_QUESTIONS[295] = "Which class(es) can breathe under water infinitely?";
+WOW_TRIVIA_QUESTIONS[295] = "Que classes podem respirar debaixo da agua indefinitamente,diga uma?";
 WOW_TRIVIA_ANSWERS1[295] = "Warlock";
 WOW_TRIVIA_ANSWERS2[295] = "Shaman";
 WOW_TRIVIA_ANSWERS3[295] = "Druid";
 
-WOW_TRIVIA_QUESTIONS[296] = "In which zone can you find Donova Snowden";
+WOW_TRIVIA_QUESTIONS[296] = "Em qual zona Donova Snowden pode ser encontrada";
 WOW_TRIVIA_ANSWERS1[296] = "Winterspring";
 
-WOW_TRIVIA_QUESTIONS[297] = "How many items is there in a tier 3 set?";
+WOW_TRIVIA_QUESTIONS[297] = "Quantos item tem o set T3?";
 WOW_TRIVIA_ANSWERS1[297] = "9";
-WOW_TRIVIA_ANSWERS2[297] = "Nine";
+WOW_TRIVIA_ANSWERS2[297] = "Nove";
 
-WOW_TRIVIA_QUESTIONS[298] = "What were the Blood Elves originally called?";
+WOW_TRIVIA_QUESTIONS[298] = "Como eram chamados originalmente od Blood Elves?";
 WOW_TRIVIA_ANSWERS1[298] = "high elfs";
 WOW_TRIVIA_ANSWERS2[298] = "high elves";
+WOW_TRIVIA_ANSWERS3[298] = "high elf";
 
-WOW_TRIVIA_QUESTIONS[299] = "What race has Escape Artist as their racial?";
+WOW_TRIVIA_QUESTIONS[299] = "Qual reça tem como racial 'Escape Artist'?";
 WOW_TRIVIA_ANSWERS1[299] = "Gnomes";
 WOW_TRIVIA_ANSWERS2[299] = "Gnome";
+WOW_TRIVIA_ANSWERS3[299] = "Gnomo";
 
-WOW_TRIVIA_QUESTIONS[300] = "What is the Warlocks second pet called?";
+WOW_TRIVIA_QUESTIONS[300] = "Como se chama o segundo pet de Warlock?";
 WOW_TRIVIA_ANSWERS1[300] = "Voidwalker";
 WOW_TRIVIA_ANSWERS2[300] = "vw";
 
-WOW_TRIVIA_QUESTIONS[301] = "What is the highest rank of Fireball?";
+WOW_TRIVIA_QUESTIONS[301] = "Qual o maior rank de 'Fireball'?";
 WOW_TRIVIA_ANSWERS1[301] = "Rank 13";
 WOW_TRIVIA_ANSWERS2[301] = "13";
 WOW_TRIVIA_ANSWERS3[301] = "thirteen";
