@@ -51,9 +51,10 @@ WOW_TRIVIA_ANSWERS1[10] = "Stratholme UD";
 WOW_TRIVIA_ANSWERS2[10] = "Stratholme";
 WOW_TRIVIA_ANSWERS3[10] = "strat";
 
-WOW_TRIVIA_QUESTIONS[11] = "Com que facção é preciso ser exaltado para comprar 'The Unstoppable Force' (name one of the factions)?";
+WOW_TRIVIA_QUESTIONS[11] = "Com que facção é preciso ser exaltado para comprar 'The Unstoppable Force' (diga o nome de uma das facções)?";
 WOW_TRIVIA_ANSWERS1[11] = "stormpike";
 WOW_TRIVIA_ANSWERS2[11] = "frostwolf";
+WOW_TRIVIA_ANSWERS2[11] = "frostwolf clan";
 
 WOW_TRIVIA_QUESTIONS[12] = "Qual é o ultimo boss de Molten Core?";
 WOW_TRIVIA_ANSWERS1[12] = "Ragnaros";
@@ -79,7 +80,7 @@ WOW_TRIVIA_ANSWERS1[16] = "Uncommon Quality";
 WOW_TRIVIA_ANSWERS2[16] = "uncommon";
 WOW_TRIVIA_ANSWERS3[16] = "incomum";
 
-WOW_TRIVIA_QUESTIONS[17] = "Qual dessas raids pre-tbc era limitada a 20 players? (UBRS, MC, AQ40, ZG, BWL";
+WOW_TRIVIA_QUESTIONS[17] = "Qual dessas raids pre-tbc era limitada a 20 players? (UBRS, MC, AQ40, ZG, BWL)";
 WOW_TRIVIA_ANSWERS1[17] = "Zul'Gurub";
 WOW_TRIVIA_ANSWERS2[17] = "ZG";
 WOW_TRIVIA_ANSWERS3[17] = "Zul Gurub";
@@ -229,7 +230,7 @@ WOW_TRIVIA_ANSWERS1[53] = "The Prophet Skeram";
 WOW_TRIVIA_ANSWERS2[53] = "Prophet Skeram";
 WOW_TRIVIA_ANSWERS3[53] = "Skeram";
 
-WOW_TRIVIA_QUESTIONS[54] = "Anubisath Defenders em AQ40 tem duas habilidades que eles usam quando estao proximo da morte.Giga o nome de uma?";
+WOW_TRIVIA_QUESTIONS[54] = "Anubisath Defenders em AQ40 tem duas habilidades que eles usam quando estao proximo da morte.Diga o nome de uma?";
 WOW_TRIVIA_ANSWERS1[54] = "Enrage or Explode";
 WOW_TRIVIA_ANSWERS2[54] = "Enrage";
 WOW_TRIVIA_ANSWERS3[54] = "Explode";
@@ -237,20 +238,21 @@ WOW_TRIVIA_ANSWERS3[54] = "Explode";
 WOW_TRIVIA_QUESTIONS[55] = "Blackwing Lair foi lançado em qual pach de conteudo?";
 WOW_TRIVIA_ANSWERS1[55] = "1.6";
 
-WOW_TRIVIA_QUESTIONS[56] = "Para entrar em  Blackwing Lair via atalho, voce precisa tocar um item chamado _________?";
+WOW_TRIVIA_QUESTIONS[56] = "Para entrar em  Blackwing Lair via atalho, voce precisa tocar um item chamado Orb of______?";
 WOW_TRIVIA_ANSWERS1[56] = "Orb of Command";
+WOW_TRIVIA_ANSWERS1[56] = "Command";
 
 WOW_TRIVIA_QUESTIONS[57] = "Diga o nome de um dos dragoes de Dragons of Blackwing Lair.";
-WOW_TRIVIA_ANSWERS1[57] = "Ebonroc";
-WOW_TRIVIA_ANSWERS2[57] = "Flamegor";
-WOW_TRIVIA_ANSWERS3[57] = "Firemaw";
-WOW_TRIVIA_ANSWERS4[57] = "Nefarian";
+WOW_TRIVIA_ANSWERS1[57] = "ebonroc";
+WOW_TRIVIA_ANSWERS2[57] = "flamegor";
+WOW_TRIVIA_ANSWERS3[57] = "firemaw";
+WOW_TRIVIA_ANSWERS4[57] = "nefarian";
 
 WOW_TRIVIA_QUESTIONS[58] = "Chromaggus's Brood Affliction: Blue e que tipo de debuff?";
 WOW_TRIVIA_ANSWERS1[58] = "magic";
 
 WOW_TRIVIA_QUESTIONS[59] = "A ombreira T2 dropa de qual boss?";
-WOW_TRIVIA_ANSWERS1[59] = "Chromaggus";
+WOW_TRIVIA_ANSWERS1[59] = "chromaggus";
 
 WOW_TRIVIA_QUESTIONS[60] = "Acronimos: O que ZF quer dizer?";
 WOW_TRIVIA_ANSWERS1[60] = "Zul'Farrak";
@@ -269,7 +271,7 @@ WOW_TRIVIA_ANSWERS2[62] = "Ouro the Sandworm";
 WOW_TRIVIA_QUESTIONS[63] = "Acronimos: o que WTT quer dizer?";
 WOW_TRIVIA_ANSWERS1[63] = "Want To Trade";
 
-WOW_TRIVIA_QUESTIONS[64] = "Acronimos: o que NPC?";
+WOW_TRIVIA_QUESTIONS[64] = "Acronimos: o que NPC que dizer?";
 WOW_TRIVIA_ANSWERS1[64] = "Non-Player Character";
 WOW_TRIVIA_ANSWERS2[64] = "Non Player Character";
 WOW_TRIVIA_ANSWERS3[64] = "Non Playing Character";
@@ -282,6 +284,7 @@ WOW_TRIVIA_ANSWERS4[65] = "Master Loot";
 
 WOW_TRIVIA_QUESTIONS[66] = "Acronimos: o que DPS quer dizer?";
 WOW_TRIVIA_ANSWERS1[66] = "damage per second";
+WOW_TRIVIA_ANSWERS1[66] = "dano por segundo";
 
 WOW_TRIVIA_QUESTIONS[67] = "Acronimos: o que PoM quer dizer?";
 WOW_TRIVIA_ANSWERS1[67] = "Presence of Mind";
@@ -377,7 +380,7 @@ WOW_TRIVIA_ANSWERS2[89] = "40";
 WOW_TRIVIA_QUESTIONS[90] = "Qual o continente que tem duas capitais da Horda?";
 WOW_TRIVIA_ANSWERS1[90] = "Kalimdor";
 
-WOW_TRIVIA_QUESTIONS[91] = "Tentar cruzar o oceano ira leva-lo a morte por _____?(em ingles)";
+WOW_TRIVIA_QUESTIONS[91] = "Tentar cruzar o oceano ira leva-lo a morte por _____?(em ingles ou portugues)";
 WOW_TRIVIA_ANSWERS1[91] = "Fatigue";
 WOW_TRIVIA_ANSWERS2[91] = "Fadiga";
 
@@ -386,11 +389,11 @@ WOW_TRIVIA_ANSWERS1[92] = "Eastern Kingdoms";
 WOW_TRIVIA_ANSWERS2[92] = "Kalimdor";
 
 WOW_TRIVIA_QUESTIONS[93] = "Qual a profissao que virá na poxima expansao? (nome completo)";
-WOW_TRIVIA_ANSWERS1[93] = "Jewelcrafting";
-WOW_TRIVIA_ANSWERS1[93] = "Joalheria";
+WOW_TRIVIA_ANSWERS1[93] = "jewelcrafting";
+WOW_TRIVIA_ANSWERS1[93] = "joalheria";
 
 
-WOW_TRIVIA_QUESTIONS[94] = "Essence of the Red no encontro com Vaelastrasz restaura quanto de energia por segundo?";
+WOW_TRIVIA_QUESTIONS[94] = "'Essence of the Red' no encontro com Vaelastrasz restaura quanto de energia por segundo?";
 WOW_TRIVIA_ANSWERS1[94] = "cinquanta";
 WOW_TRIVIA_ANSWERS2[94] = "50";
 
@@ -640,7 +643,7 @@ WOW_TRIVIA_ANSWERS5[152] = "dez seg";
 WOW_TRIVIA_ANSWERS6[152] = "10 seg";
 
 WOW_TRIVIA_QUESTIONS[153] = "Como se chama o pai de Thrall";
-WOW_TRIVIA_ANSWERS1[153] = "Durotan";
+WOW_TRIVIA_ANSWERS1[153] = "durotan";
 
 WOW_TRIVIA_QUESTIONS[154] = "Quanto de dano da cada ponto de raiva convertido em dano dono ultimo rank Execute?";
 WOW_TRIVIA_ANSWERS1[154] = "18";
@@ -675,7 +678,7 @@ WOW_TRIVIA_QUESTIONS[161] = "Que habilidade de warrior reduz a cura em 50%?";
 WOW_TRIVIA_ANSWERS1[161] = "Mortal Strike";
 WOW_TRIVIA_ANSWERS2[161] = "MS";
 
-WOW_TRIVIA_QUESTIONS[162] = "Que espada(sword) era muito poderosa para ser adicionada ao jogo ? (hint: Southpark)";
+WOW_TRIVIA_QUESTIONS[162] = "Que espada(sword) era muito poderosa para ser adicionada ao jogo ? (Dica: Southpark)";
 WOW_TRIVIA_ANSWERS1[162] = "The Sword of a Thousand Truths";
 WOW_TRIVIA_ANSWERS2[162] = "sword of a thousand truths";
 WOW_TRIVIA_ANSWERS3[162] = "sword of a 1000 truths";
@@ -715,18 +718,18 @@ WOW_TRIVIA_ANSWERS2[167] = "Elemental Mages";
 WOW_TRIVIA_ANSWERS3[167] = "Mago elemental";
 
 WOW_TRIVIA_QUESTIONS[168] = "Quais as duas criatuas alem de ovelha que um mago pode polimorfar os inimigos? (X e Y)";
-WOW_TRIVIA_ANSWERS1[168] = "Pig and Turtle";
-WOW_TRIVIA_ANSWERS2[168] = "Turtle and Pig";
+WOW_TRIVIA_ANSWERS1[168] = "pig and turtle";
+WOW_TRIVIA_ANSWERS2[168] = "turtle and pig";
 WOW_TRIVIA_ANSWERS3[168] = "porco e tartaruga";
 WOW_TRIVIA_ANSWERS4[168] = "tartaruga e porco";
 
 WOW_TRIVIA_QUESTIONS[169] = "Qual boss dropa Ashkandi, greatsword of the Brotherhood?";
-WOW_TRIVIA_ANSWERS1[169] = "Nefarian";
+WOW_TRIVIA_ANSWERS1[169] = "nefarian";
 
 WOW_TRIVIA_QUESTIONS[170] = "Qual besta é Grimclaw, o qual patrulha Darkshore?";
-WOW_TRIVIA_ANSWERS1[170] = "Bear";
-WOW_TRIVIA_ANSWERS2[170] = "Icebear";
-WOW_TRIVIA_ANSWERS3[170] = "Ice-bear";
+WOW_TRIVIA_ANSWERS1[170] = "bear";
+WOW_TRIVIA_ANSWERS2[170] = "icebear";
+WOW_TRIVIA_ANSWERS3[170] = "ice-bear";
 WOW_TRIVIA_ANSWERS4[170] = "urso";
 
 WOW_TRIVIA_QUESTIONS[171] = "Quantas pessoas há em um grupo fechado?";
@@ -740,7 +743,7 @@ WOW_TRIVIA_ANSWERS2[172] = "quarenta";
 WOW_TRIVIA_QUESTIONS[173] = "Quem ensina a usar One-Handed sword em Stormwind?";
 WOW_TRIVIA_ANSWERS1[173] = "Wu Ping";
 
-WOW_TRIVIA_QUESTIONS[174] = "Curse of agony da dano a cada ___ segundos?";
+WOW_TRIVIA_QUESTIONS[174] = "Curse of agony da dano a cada ____ segundos?";
 WOW_TRIVIA_ANSWERS1[174] = "dois";
 WOW_TRIVIA_ANSWERS2[174] = "2";
 
@@ -941,7 +944,7 @@ WOW_TRIVIA_QUESTIONS[225] = "Quem é o 'Pai' da Bug Family em AQ40?";
 WOW_TRIVIA_ANSWERS1[225] = "Lord Kri";
 WOW_TRIVIA_ANSWERS2[225] = "Kri";
 
-WOW_TRIVIA_QUESTIONS[226] = "Quando o jogo foi lançado, os mobs de qual zoa nao tinham loot?";
+WOW_TRIVIA_QUESTIONS[226] = "Quando o jogo foi lançado, os mobs de qual zona nao tinham loot?";
 WOW_TRIVIA_ANSWERS1[226] = "Silithus";
 
 WOW_TRIVIA_QUESTIONS[227] = "Que boss de Blackwing Lair dropa o bracelete T2?";
@@ -1246,30 +1249,34 @@ WOW_TRIVIA_ANSWERS2[300] = "vw";
 WOW_TRIVIA_QUESTIONS[301] = "Qual o maior rank de 'Fireball'?";
 WOW_TRIVIA_ANSWERS1[301] = "Rank 13";
 WOW_TRIVIA_ANSWERS2[301] = "13";
-WOW_TRIVIA_ANSWERS3[301] = "thirteen";
+WOW_TRIVIA_ANSWERS3[301] = "treze";
 
-WOW_TRIVIA_QUESTIONS[302] = "How much resources do you need to win an Arathi Basin match?";
+WOW_TRIVIA_QUESTIONS[302] = "Quantos pronto é necessario para ganhar uma partida de 'Arathi Basin'?";
 WOW_TRIVIA_ANSWERS1[302] = "2000";
-WOW_TRIVIA_ANSWERS2[302] = "two thousand";
 
-WOW_TRIVIA_QUESTIONS[303] = "What type of resistance do you need for the Sapphiron encounter?";
-WOW_TRIVIA_ANSWERS1[303] = "Frost";
+WOW_TRIVIA_QUESTIONS[303] = "Que tipo de resistencia voce precisa para a luta contra Sapphiron ?";
+WOW_TRIVIA_ANSWERS1[303] = "frost";
+WOW_TRIVIA_ANSWERS2[303] = "gelo";
 
-WOW_TRIVIA_QUESTIONS[304] = "What kind of monster is Onyxia?";
+
+WOW_TRIVIA_QUESTIONS[304] = "Que tipo de monstro é Onyxia?";
 WOW_TRIVIA_ANSWERS1[304] = "Dragon";
 WOW_TRIVIA_ANSWERS2[304] = "Dragonkin";
+WOW_TRIVIA_ANSWERS3[304] = "Dragao";
 
-WOW_TRIVIA_QUESTIONS[305] = "On which continent is Deadwind Pass found?";
+WOW_TRIVIA_QUESTIONS[305] = "Em que continente se encontra 'Deadwind Pass'?";
 WOW_TRIVIA_ANSWERS1[305] = "eastern kingdoms";
 
-WOW_TRIVIA_QUESTIONS[306] = "In what instance does Illidan the Betrayer reside in?";
+WOW_TRIVIA_QUESTIONS[306] = "Em que instancia 'Illidan the Betrayer' reside";
 WOW_TRIVIA_ANSWERS1[306] = "The Black Temple";
 WOW_TRIVIA_ANSWERS2[306] = "black temple";
 WOW_TRIVIA_ANSWERS3[306] = "bt";
+WOW_TRIVIA_ANSWERS4[306] = "BT";
 
-WOW_TRIVIA_QUESTIONS[307] = "What will Piccolo of the Flaming Fire make you do?";
+WOW_TRIVIA_QUESTIONS[307] = "O que o trinket 'Piccolo of the Flaming Fire' lhe força a fazer?";
 WOW_TRIVIA_ANSWERS1[307] = "Dance";
 WOW_TRIVIA_ANSWERS2[307] = "dancing";
+WOW_TRIVIA_ANSWERS3[307] = "dancar";
 
 WOW_TRIVIA_QUESTIONS[308] = "Which boss do you need to defeat in order to aquire 'Thunderfury, The Blessed Blade of the Windseeker', if you have the bindings?";
 WOW_TRIVIA_ANSWERS1[308] = "Prince Thunderaan";
